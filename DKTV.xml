@@ -1,90 +1,90 @@
 <item>
-<title>DR 1</title>
+<title>DR 1   (Works Only in DK)</title>
 <link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/master.m3u8</link>
 <thumbnail>http://i.imgur.com/x57DzaL.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>DR 2</title>
-<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8</link>
+<title>DR 2   (Works Only in DK)</title>
+<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/AOG13SJ.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>DR 3</title>
-<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8</link>
+<title>DR 3   (Works Only in DK)</title>
+<link>http://dr03-lh.akamaihd.net/i/dr03_0@147056/index_3_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/mPkGHjp.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>DR K</title>
+<title>DR K   (Works Only in DK)</title>
 <link>http://dr04-lh.akamaihd.net/i/dr04_0@147057/index_3_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/8ZbnyBt.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>DR ULTRA</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<title>DR ULTRA   (Works Only in DK)</title>
+<link>http://dr06-lh.akamaihd.net/i/dr06_0@147059/index_3_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/k1c94GJ.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>DR RAMASJANG</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
-<thumbnail>http://i.imgur.com/p2rpOOb.png</thumbnail>
+<title>DR RAMASJANG   (Works Only in DK)</title>
+<link>http://dr05-lh.akamaihd.net/i/dr05_0@147058/index_3_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/yNBC3KO.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>TV2 HD</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<link>http://tv2danmark-tv2ost-live.hls.adaptive.level3.net/tv2danmark/tv2ost/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/a0kyHOE.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>TV2 NEWS</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<title>TV2 NEWS HD</title>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220805/News/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/gkXssrT.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>TV2 SPORT HD</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220798/Sport/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/stSy9EZ.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>TV2 ZULU</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<title>TV2 ZULU HD</title>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220801/Zulu/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/zwQQX2k.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>TV2 LORRY</title>
-<link>http://arc-cds-se1.se.ys-hlslive.ds.cdn.yousee.tv/Content/HLS/Live/Channel(6eren)/Stream(05)/index.m3u8</link>
+<title>TV2 FRI HD</title>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220791/fri/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/Bk1kkp7.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>KANAL 6</title>
+<title>6eren HD</title>
 <link>http://dpme12hls-i.akamaihd.net/hls/live/249637/dpme12_3/master.m3u8</link>
 <thumbnail>http://i.imgur.com/0ZCorb7.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
-<title>KANAL TEST</title>
-<link>http://arcttv1sr105.se.ys-hlslive.ds.cdn.yousee.tv/Content/HLS/Live/Channel(TV3)/Stream(05)/index.m3u8</link>
+<title>TESTING Channel</title>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220801/Zulu/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/0ZCorb7.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
