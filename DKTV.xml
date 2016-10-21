@@ -7,21 +7,21 @@
 
 <item>
 <title>DR 2</title>
-<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8</link>
+<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/master.m3u8</link>
 <thumbnail>http://i.imgur.com/AOG13SJ.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>DR 3</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<link>http://dr02-lh.akamaihd.net/i/dr02_0@147055/index_5_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/mPkGHjp.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>DR K</title>
-<link>http://dr01-lh.akamaihd.net/i/dr01_0@147054/segment147697130_5_av-p.ts</link>
+<link>http://dr04-lh.akamaihd.net/i/dr04_0@147057/index_3_av-p.m3u8</link>
 <thumbnail>http://i.imgur.com/8ZbnyBt.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
