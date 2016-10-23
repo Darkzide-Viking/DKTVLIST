@@ -99,21 +99,21 @@
 
 <item>
 <title>Kanal 5 HD</title>
-<link>http://hls/live/223867/K5SWHD/master288_20161021.m3u8</link>
+<link>http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8</link>
 <thumbnail>http://www.discoverynetworks.se/sites/default/files/channel/preview_logo/logo-kanal5.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>Kanal 6 HD</title>
-<link>http://hls/live/223867/K6SWHD/master288_20161021.m3u8</link>
+<link>http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K6SWHD/master.m3u8</link>
 <thumbnail>http://www.discoverynetworks.se/sites/default/files/channel/preview_logo/logo-kanal5.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>Kanal 9 HD</title>
-<link>http://hls/live/223857/K9SWHD/master720_20161021.m3u8</link>
+<link>http://dnordichlslive07-i.akamaihd.net/hls/live/223857/K9SWHD/master.m3u8</link>
 <thumbnail>http://www.ljungby-energi.se/wp-content/uploads/2015/06/kanaler_alacarte_kanal9hd.jpg</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
