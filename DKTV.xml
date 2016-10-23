@@ -98,6 +98,27 @@
 </item>
 
 <item>
+<title>Kanal 5 HD</title>
+<link>http:///hls/live/223867/K5SWHD/master288_20161021.m3u8</link>
+<thumbnail>http://www.discoverynetworks.se/sites/default/files/channel/preview_logo/logo-kanal5.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>Kanal 6 HD</title>
+<link>http:///hls/live/223867/K6SWHD/master288_20161021.m3u8</link>
+<thumbnail>http://www.discoverynetworks.se/sites/default/files/channel/preview_logo/logo-kanal5.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>Kanal 9 HD</title>
+<link>http:///hls/live/223857/K9SWHD/master288_20161021.m3u8</link>
+<thumbnail>http://www.larmsfastigheter.se/uploads/4/2/5/9/42591349/6490723_orig.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR red]-------- [/COLOR][COLOR medium blue]Norwegian TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
 <link>http://www.djing.com/tv/u-05.m3u8</link>
 <thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Norway-Flag-icon.png</thumbnail>
