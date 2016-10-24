@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR red]-------- [/COLOR][COLOR white]Danish TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
-<link>http://195.168.86.220:80/live/playstream2.m3u8</link>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
 <thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/flag-2/256/Denmark-Flag-icon.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
