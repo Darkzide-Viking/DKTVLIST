@@ -134,7 +134,7 @@
 
 <item>
 <title>[COLOR red]-------- [/COLOR][COLOR medium blue]Norwegian TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
-<link>http://www.djing.com/tv/u-05.m3u8</link>
+<link>http://195.168.86.220:80/live/playstream2.m3u8</link>
 <thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Norway-Flag-icon.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
