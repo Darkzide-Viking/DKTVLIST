@@ -1,7 +1,4 @@
 
-<fanart>http://i.imgur.com/5ORlCgd.jpg<fanart> 
-
-
 <item>
 <title>[COLOR red]-------- [/COLOR][COLOR white]Danish TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
 <link>http://danmark.fm/radio/anr/anr-radio-med-puls.html</link>
@@ -153,5 +150,33 @@
 <title>TV Visjon HD</title>
 <link>http://80.252.162.14/edge/_a5xbjod7_/a5xbjod7/master.m3u8</link>
 <thumbnail>http://i.imgur.com/bkMQkWT.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>Temp TV Channels</title>
+<link>IGNORE</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>TV3 DK</title>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2977.ts</link>
+<thumbnail>http://i.imgur.com/KpRfYHr.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>TV3+ DK</title>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/1634.ts</link>
+<thumbnail>http://i.imgur.com/iFBaHAW.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+
+<item>
+<title>TV3 Puls DK</title>
+<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2971.ts</link>
+<thumbnail>http://i.imgur.com/E2JOBZV.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
