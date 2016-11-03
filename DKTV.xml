@@ -69,12 +69,11 @@
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
-<item>
+
 <title>TV2 ZULU HD</title>
 <link>http://tv2dkidevta-i.akamaihd.net/hls/live/220801/Zulu/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/zwQQX2k.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
-</item>
 
 <item>
 <title>TV2 FRI  HD</title>
@@ -153,23 +152,3 @@
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white]-------- [/COLOR][COLOR blue]Fast Dying Channels[/COLOR][COLOR white] --------[/COLOR]</title>
-<link>IGNORE</link>
-<thumbnail></thumbnail>
-<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
-</item>
-
-<item>
-<title>TV3 DK</title>
-<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2977.ts</link>
-<thumbnail>http://i.imgur.com/KpRfYHr.png</thumbnail>
-<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
-</item>
-
-<item>
-<title>TV3 Puls DK</title>
-<link>http://iptvfree1.com:6969/live/8/www.iptvrestream.net/2971.ts</link>
-<thumbnail>http://i.imgur.com/E2JOBZV.png</thumbnail>
-<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
-</item>
