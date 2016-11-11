@@ -58,6 +58,13 @@
 <thumbnail>http://i.imgur.com/a0kyHOE.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
+  
+<item>
+<title>TV2 ZULU HD</title>
+<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220801/Zulu/master5000kbps.m3u8</link>
+<thumbnail>http://i.imgur.com/xCIjE0O.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
 
 <item>
 <title>TV2 NEWS HD</title>
@@ -65,7 +72,14 @@
 <thumbnail>http://i.imgur.com/gkXssrT.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
-
+  
+<item>
+<title>TV2 Charlie HD</title>
+<link>https://href.li/?http://tv2dkidevta-i.akamaihd.net/hls/live/220790/Charlie/master5000kbps.m3u8</link>
+<thumbnail>http://i.imgur.com/2scED6W.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+  
 <item>
 <title>TV2 FRI  HD</title>
 <link>http://tv2dkidevta-i.akamaihd.net/hls/live/220791/fri/master5000kbps.m3u8</link>
