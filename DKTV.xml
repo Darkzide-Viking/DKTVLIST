@@ -40,14 +40,14 @@
 
 <item>
 <title>TV2 NORD</title>
-<link>http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master5000kbps.m3u8</link>
+<link>http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/a0kyHOE.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
   
 <item>
 <title>TV2 ZULU</title>
-<link>http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master5000kbps.m3u8</link>
+<link>http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/xCIjE0O.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
