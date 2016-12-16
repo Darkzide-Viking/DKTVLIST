@@ -39,29 +39,36 @@
 </item>
 
 <item>
-<title>TV2 HD</title>
-<link>http://tv2danmark-tv2ost-live.hls.adaptive.level3.net/tv2danmark/tv2ost/master5000kbps.m3u8</link>
+<title>TV2 NORD</title>
+<link>http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master5000kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/a0kyHOE.png</thumbnail>
+<fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
+</item>
+  
+<item>
+<title>TV2 ZULU</title>
+<link>http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master5000kbps.m3u8</link>
+<thumbnail>http://i.imgur.com/xCIjE0O.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
 
 <item>
 <title>TV2 NEWS HD</title>
-<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220805/News/master5000kbps.m3u8</link>
+<link>http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/gkXssrT.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
   
 <item>
 <title>TV2 Charlie HD</title>
-<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220790/Charlie/master5000kbps.m3u8</link>
+<link>http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/2scED6W.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
   
 <item>
 <title>TV2 FRI  HD</title>
-<link>http://tv2dkidevta-i.akamaihd.net/hls/live/220791/fri/master5000kbps.m3u8</link>
+<link>http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps/00019/master3200kbps_00475.ts</link>
 <thumbnail>http://i.imgur.com/HdkRnf7.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
