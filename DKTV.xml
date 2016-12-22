@@ -175,7 +175,7 @@
 
 <item>
 <title>Discovery SCI HD </title>
-<link>http://89.248.168.18:8081/live/discovery-hq/chunks.m3u8</link>
+<link>http://89.248.168.18:8081/live/discovery-hq/chunks.m3u8?nimblesessionid=80123405&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxNiAzOjUwOjA2IFBNJmhhc2hfdmFsdWU9NHFMelRYSlBjenQ1d3pGSDhHeVU4UT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC42MCZzdHJtX2xlbj0xNw==</link>
 <thumbnail>https://discoverflow.co/widgets/limetv/bb-coverflow/images/channel-logos/discovery-science.jpg</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
