@@ -183,7 +183,7 @@
 
 <item>
 <title>Discovery Turbo HD</title>
-<link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
+<link>http://163.172.140.173:8081/swiftmaza/discoveryturbo/chunks.m3u8</link>
 <thumbnail>http://i.imgur.com/0sdNoWp.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
@@ -191,7 +191,7 @@
 
 <item>
 <title>Discovery SCI HD </title>
-<link></link>
+<link>http://51.15.54.184:8081/swiftmaza/DiscoveryScience/chunks.m3u8</link>
 <thumbnail>https://discoverflow.co/widgets/limetv/bb-coverflow/images/channel-logos/discovery-science.jpg</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
