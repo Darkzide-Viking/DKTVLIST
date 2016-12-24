@@ -167,7 +167,7 @@
 </item>
   
 <item>
-<title>Discovery HD</title>
+<title>Discovery SD</title>
 <link>http://208.86.19.13:8080/live/31.stream/index.m3u8</link>
 <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
@@ -176,7 +176,7 @@
 <item>
 <title>Discovery ID HD</title>
 <link>http://51.15.54.184:8081/swiftmaza/DISCOVERYID/l_48076_2040880_306.ts</link>
-<thumbnail>http://www.xiaotian-shi.com/wp-content/uploads/2016/05/IDNetwork.png</thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
   
@@ -184,7 +184,7 @@
 <item>
 <title>Discovery Turbo HD</title>
 <link>http://163.172.140.173:8081/swiftmaza/discoveryturbo/chunks.m3u8</link>
-<thumbnail>http://i.imgur.com/0sdNoWp.png</thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
   
@@ -192,6 +192,6 @@
 <item>
 <title>Discovery SCI HD </title>
 <link>http://51.15.54.184:8081/swiftmaza/DiscoveryScience/chunks.m3u8</link>
-<thumbnail>https://discoverflow.co/widgets/limetv/bb-coverflow/images/channel-logos/discovery-science.jpg</thumbnail>
+<thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/1/11/Discovery_Channel_2016.png</thumbnail>
 <fanart>http://i.imgur.com/5ORlCgd.jpg</fanart>
 </item>
