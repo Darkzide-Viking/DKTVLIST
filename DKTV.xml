@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR red]-------- [/COLOR][COLOR white]Danish TV Channels Updated 18/1-2017[/COLOR][COLOR red] --------[/COLOR]</title>
 <link>http://rtmp.one.by:1300/</link>
-<thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/flag-2/256/Denmark-Flag-icon.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
@@ -104,7 +104,7 @@
 <item>
 <title>[COLOR blue]-------- [/COLOR][COLOR gold]Swedish TV Channels[/COLOR][COLOR blue] --------[/COLOR]</title>
 <link>http://www.djing.com/tv/u-05.m3u8</link>
-<thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Sweden-Flag-icon.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
@@ -155,7 +155,7 @@
 <item>
 <title>[COLOR red]-------- [/COLOR][COLOR teal]Norwegian TV Channels[/COLOR][COLOR red] --------[/COLOR]</title>
 <link>http://rtmp.one.by:1499/</link>
-<thumbnail>http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Norway-Flag-icon.png</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
@@ -177,4 +177,23 @@
 <title>N Norge HD</title>
 <link>http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/v2wCXkk.png</thumbnail>  
+</item>
+
+<item>
+<title>[COLOR black]-------- [/COLOR][COLOR red]German TV Channels[/COLOR][/COLOR][COLOR gold] --------[/COLOR]</title>
+<link>http://rtmp.one.by:1499/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>ARD HD</title>
+<link>http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_184_av-p.m3u8</link>
+<thumbnail>http://i.imgur.com/h68LKmv.png</thumbnail>  
+</item>
+  
+<item>
+<title>NDR HD</title>
+<link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8</link>
+<thumbnail>http://i.imgur.com/KWnJQ75.png</thumbnail>  
 </item>
