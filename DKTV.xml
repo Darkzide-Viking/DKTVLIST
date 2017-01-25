@@ -3,7 +3,7 @@
 <fanart>http://i.imgur.com/wi0GtaH.jpg<fanart> 
 #######################################################################################################################################
 <item>
-<title>[COLOR red]-------- [/COLOR][COLOR white]Darkzide IPTV Updated 19/1-2017[/COLOR][COLOR red] --------[/COLOR]</title>
+<title>[COLOR red]-------- [/COLOR][COLOR white]Darkzide IPTV Updated 25/1-2017[/COLOR][COLOR red] --------[/COLOR]</title>
 <link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -58,50 +58,50 @@
 </item>
 
 <item>
-<title>TV2</title>
+<title>TV2 HD</title>
 <link>http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8</link>
 <thumbnail>http://i.imgur.com/NAMW8M3.png</thumbnail>
 <fanart></fanart>
 </item>
   
 <item>
-<title>TV2 NEWS</title>
+<title>TV2 NEWS HD</title>
 <link>http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master.m3u8</link>
 <thumbnail>http://i.imgur.com/VE3ySgQ.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>TV2 FRI</title>
+<title>TV2 FRI HD</title>
 <link>http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/ZnvxE1w.png</thumbnail>
 <fanart></fanart>
 </item> 
   
 <item>
-<title>TV2 ZULU</title>
+<title>TV2 ZULU HD</title>
 <link>http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/XEG8KbO.png</thumbnail>
 <fanart></fanart>
 </item>
   
 <item>
-<title>TV2 SPORT</title>
+<title>TV2 SPORT HD</title>
 <link>http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/UhqfJnM.png</thumbnail>
 <fanart></fanart>
 </item>
   
 <item>
-<title>TV2 Charlie</title>
+<title>TV2 Charlie HD</title>
 <link>http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/egSRz9y.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>6eren</title>
-<link>http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master720_20170117.m3u8</link>
+<title>6eren HD</title>
+<link>http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8</link>
 <thumbnail>http://i.imgur.com/AxlvEUj.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -191,21 +191,3 @@
 <thumbnail>http://i.imgur.com/v2wCXkk.png</thumbnail>  
 </item>
 
-<item>
-<title>-------- [COLOR black]German[/COLOR] [COLOR red]TV[/COLOR] [COLOR gold]Channels[/COLOR] --------</title>
-<link>http://rtmp.one.by:1499/</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>ARD</title>
-<link>http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_184_av-p.m3u8</link>
-<thumbnail>http://i.imgur.com/h68LKmv.png</thumbnail>  
-</item>
-  
-<item>
-<title>NDR HD</title>
-<link>http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8</link>
-<thumbnail>http://i.imgur.com/KWnJQ75.png</thumbnail>  
-</item>
