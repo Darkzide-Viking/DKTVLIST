@@ -107,11 +107,25 @@
 </item>
   
 <item>
-<title>Eurosport1 [COLOR red]HD[/COLOR]</title>
+<title>Kanal 9 [COLOR red]HD[/COLOR]</title>
+<link>http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8</link>
+<thumbnail></thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>  
+  
+<item>
+<title>Eurosport 1 [COLOR red]HD[/COLOR]</title>
 <link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8</link>
 <thumbnail>http://i.imgur.com/7r63Yt1.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
+  
+<item>
+<title>Eurosport 2 [COLOR red]HD[/COLOR]</title>
+<link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8</link>
+<thumbnail>http://i.imgur.com/7r63Yt1.png</thumbnail>
+<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
+</item>  
 
 <item>
 <title>[COLOR blue]-------- [/COLOR][COLOR gold]Swedish TV Channels[/COLOR][COLOR blue] --------[/COLOR]</title>
