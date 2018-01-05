@@ -80,23 +80,9 @@
 </item>
   
 <item>
-<title>TV2 SPORT [COLOR red]HD[/COLOR]</title>
-<link>http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master3200kbps.m3u8</link>
-<thumbnail>http://i.imgur.com/UhqfJnM.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-  
-<item>
 <title>TV2 Charlie [COLOR red]HD[/COLOR]</title>
 <link>http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master3200kbps.m3u8</link>
 <thumbnail>http://i.imgur.com/egSRz9y.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-
-<item>
-<title>6eren [COLOR red]HD[/COLOR]</title>
-<link>http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/AxlvEUj.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
   
@@ -106,41 +92,13 @@
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>  
-  
-<item>
-<title>Eurosport 1 [COLOR red]HD[/COLOR]</title>
-<link>http://dpme12hls-i.akamaiHD.net/hls/live/249637/dpme12_3/master.m3u8</link>
-<thumbnail>http://i.imgur.com/7r63Yt1.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-  
-<item>
-<title>Eurosport 2 [COLOR red]HD[/COLOR]</title>
-<link>http://dnordichlslive09-i.akamaihd.net/hls/live/223865/ESDKHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/7r63Yt1.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>  
 
 <item>
 <title>[COLOR blue]-------- [/COLOR][COLOR gold]Swedish TV Channels[/COLOR][COLOR blue] --------[/COLOR]</title>
 <link>http://www.djing.com/tv/u-05.m3u8</link>
 <thumbnail></thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-  
-<item>
-<title>[COLOR gold]TV 4 Nyheterna[/COLOR] [COLOR blue]HD[/COLOR]</title>
-<link>http://tv4events3-lh.akamaihd.net/i/EXTRAEVENT14_1@324065/master.m3u8</link>
-<thumbnail>http://i.imgur.com/JJPwOth.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>  
-
-<item>
-<title>[COLOR gold]Kanal 5[/COLOR] [COLOR blue]HD[/COLOR]</title>
-<link>http://dnordichlslive10-i.akamaihd.net/hls/live/223867/K5SWHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/7gL29WK.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
+</item> 
 
 <item>
 <title>[COLOR gold]Kanal 9[/COLOR] [COLOR blue]HD[/COLOR]</title>
@@ -155,34 +113,11 @@
 <thumbnail>http://kanal10.se/images/default-source/Grafik/kanal10CFEFF1B92FE3.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>  
-  
-<item>
-<title>[COLOR gold]Kanal 11[/COLOR] [COLOR blue]HD[/COLOR]</title>
-<link>http://dnordichlslive05-i.akamaihd.net/hls/live/223851/K11SWHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/8NUMTXs.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-  
 
 <item>
 <title>[COLOR gold]Kanal 14[/COLOR] [COLOR blue]HD[/COLOR]</title>
 <link>http://155.4.160.181:1935/fjwebb/live/playlist.m3u8</link>
 <thumbnail></thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR gold]TLC Swe[/COLOR] [COLOR blue]HD[/COLOR]</title>
-<link>http://dnordichlslive07-i.akamaihd.net/hls/live/223858/TLCSWSD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/vA8aJar.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR gold]Discovery[/COLOR] [COLOR blue]HD[/COLOR]</title>
-<link>http://dnordichlslive04-i.akamaihd.net/hls/live/223842/DSWSD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/mKopldE.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
@@ -194,23 +129,9 @@
 </item>
 
 <item>
-<title>[COLOR teal]Eurosport N[/COLOR] [COLOR red]HD[/COLOR]</title>
-<link>http://dnordichlslive09-i.akamaihd.net/hls/live/226880/ESNOHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/pUuUyxa.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR teal]TV Visjon[/COLOR] [COLOR red]HD[/COLOR]</title>
 <link>http://80.252.162.14/edge/_a5xbjod7_/a5xbjod7/master.m3u8</link>
 <thumbnail>http://i.imgur.com/bkMQkWT.png</thumbnail>
-<fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
-</item>
-  
-<item>
-<title>[COLOR teal]N Norge[/COLOR] [COLOR red]HD[/COLOR]</title>
-<link>http://dnordichlslive08-i.akamaihd.net/hls/live/223860/TVNOHD/master.m3u8</link>
-<thumbnail>http://i.imgur.com/v2wCXkk.png</thumbnail>
 <fanart>http://i.imgur.com/wi0GtaH.jpg</fanart>
 </item>
 
