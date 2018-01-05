@@ -32,11 +32,7 @@ http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t
 http://cdn-lt-live.tv2nord.dk/dc-1/live/hls/p/1956931/e/0_74s20zcv/sd/10000/t/NtyWFziiBthx304_AgAimA/index-s32.m3u8
 #EXTINF:0 tvg-id="TV2 SYD HD" tvg-logo="https://imgur.com/Unmr8yg.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 SYD HD
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2 ØST HD" tvg-logo="https://imgur.com/Dt7TAqa.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV ØST HD
-https://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/10000/t/5V0e8WiEDy1T0USo0Guueg/index-s32.m3u8
-#EXTINF:0 tvg-id="KKR TV" tvg-logo="https://danishbits.org/static/bitbucket/users/1500219160.9331.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",KKR TV
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8
-#EXTINF:0 tvg-id="KANAL9 HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1485604583.2989.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",KANAL 9
+#EXTINF:0 tvg-id="KANAL9 HD" tvg-logo="https://imgur.com/ONbp4Bw.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",KANAL 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
 
