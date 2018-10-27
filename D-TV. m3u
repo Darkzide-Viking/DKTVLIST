@@ -1,1 +1,30 @@
 
+#EXTM3U
+#EXTINF:0 tvg-shift="0",DR 1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR 2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR 3
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR KULTUR
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",TV2 CHARLIE
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 FRI
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 NEWS
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:0 tvg-shift="0",TV2 NORD
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 1
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 2
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 3
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 4
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 SPORT
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 ZULU
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
