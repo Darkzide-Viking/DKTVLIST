@@ -1,38 +1,38 @@
-#EXTINF:0 tvg-id="DR1 HD" tvg-logo="https://imgur.com/D9bYJDy.png" group-title="DANSK" group-logo="https://i.imgur.com/SoEC8Np.png",DR 1 HD
+#EXTINF:0 tvg-id="DR1 HD" tvg-logo="https://i.imgur.com/tb9aITs.png" group-title="DR" group-logo="https://i.imgur.com/tb9aITs.png",DR 1 HD
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8
-#EXTINF:0 tvg-id="DR2 HD" tvg-logo="https://imgur.com/eLoZ2Ky.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",DR 2 HD
+#EXTINF:0 tvg-id="DR2 HD" tvg-logo="https://i.imgur.com/DpVMz8w.png" group-title="DR" group-logo="https://i.imgur.com/DpVMz8w.png",DR 2 HD
 https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8
-#EXTINF:0 tvg-id="DR3 HD" tvg-logo="https://imgur.com/bU4fe6P.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",DR 3 HD
+#EXTINF:0 tvg-id="DR3 HD" tvg-logo="https://imgur.com/bU4fe6P.png" group-title="DR" group-logo="https://imgur.com/SoEC8Np.png",DR 3 HD
 https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8
-#EXTINF:0 tvg-id="DRK HD" tvg-logo="https://imgur.com/Ynr50s3.png" gruop-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",DR K HD
+#EXTINF:0 tvg-id="DRK HD" tvg-logo="https://imgur.com/Ynr50s3.png" gruop-title="DR" group-logo="https://imgur.com/SoEC8Np.png",DR K HD
 https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8
-#EXTINF:0 tvg-id="DR RAM HD" tvg-logo="https://imgur.com/ECmVrWW.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",DR RAM HD
+#EXTINF:0 tvg-id="DR RAM HD" tvg-logo="https://imgur.com/ECmVrWW.png" group-title="DR" group-logo="https://imgur.com/SoEC8Np.png",DR RAM HD
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8
-#EXTINF:0 tvg-id="DR Ultra HD" tvg-logo="https://imgur.com/RvGDg5u.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",DR ULTRA
+#EXTINF:0 tvg-id="DR Ultra HD" tvg-logo="https://imgur.com/RvGDg5u.png" group-title="DR" group-logo="https://imgur.com/SoEC8Np.png",DR ULTRA
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8
-#EXTINF:0 tvg-id="TV2 HD" tvg-logo="https://imgur.com/iMKfEHc.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 HD
+#EXTINF:0 tvg-id="TV2 HD" tvg-logo="https://imgur.com/iMKfEHc.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 HD
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master.m3u8
-#EXTINF:0 tvg-id="TV2 NEWS HD" tvg-logo="https://imgur.com/bqXrgWj.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.pngp",TV2 NEWS HD
+#EXTINF:0 tvg-id="TV2 NEWS HD" tvg-logo="https://imgur.com/bqXrgWj.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.pngp",TV2 NEWS HD
 http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master3200kbps.m3u8
-#EXTINF:0 tvg-id="TV2 ZULU HD" tvg-logo="https://imgur.com/Gh4B5fx.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 ZULU HD
+#EXTINF:0 tvg-id="TV2 ZULU HD" tvg-logo="https://imgur.com/Gh4B5fx.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 ZULU HD
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master.m3u8
-#EXTINF:0 tvg-id="TV2 FRI HD" tvg-logo="https://imgur.com/NlGogHv.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 FRI HD
+#EXTINF:0 tvg-id="TV2 FRI HD" tvg-logo="https://imgur.com/NlGogHv.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 FRI HD
 http://tv2danmark-tv2fri-live.hls.adaptive.level3.net/tv2danmark/tv2fri/master.m3u8
-#EXTINF:0 tvg-id="TV2 Charlie HD" tvg-logo="https://imgur.com/4rWxGjV.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 CHARLIE HD
+#EXTINF:0 tvg-id="TV2 Charlie HD" tvg-logo="https://imgur.com/4rWxGjV.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 CHARLIE HD
 http://tv2danmark-tv2charlie-live.hls.adaptive.level3.net/tv2danmark/tv2charlie/master.m3u8
-#EXTINF:0 tvg-id="TV2 Bornholm HD" tvg-logo="https://imgur.com/lyHtdKC.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 Bornholm HD
+#EXTINF:0 tvg-id="TV2 Bornholm HD" tvg-logo="https://imgur.com/lyHtdKC.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 Bornholm HD
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:0 tvg-id="TV2 FYN HD" tvg-logo="https://imgur.com/jd3H2aO.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 FYN HD
+#EXTINF:0 tvg-id="TV2 FYN HD" tvg-logo="https://imgur.com/jd3H2aO.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 FYN HD
 http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2 LORRY HD"tvg-logo="https://imgur.com/xBnxSyg.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 LORRY HD
+#EXTINF:0 tvg-id="TV2 LORRY HD"tvg-logo="https://imgur.com/xBnxSyg.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 LORRY HD
 http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2 MV HD" tvg-logo="https://imgur.com/077zzLc.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 MIDTVEST HD
+#EXTINF:0 tvg-id="TV2 MV HD" tvg-logo="https://imgur.com/077zzLc.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 MIDTVEST HD
 http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2 NORD HD" tvg-logo="https://imgur.com/Wj3uZtw.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 NORD HD
+#EXTINF:0 tvg-id="TV2 NORD HD" tvg-logo="https://imgur.com/Wj3uZtw.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 NORD HD
 http://cdn-lt-live.tv2nord.dk/dc-1/live/hls/p/1956931/e/0_74s20zcv/sd/10000/t/NtyWFziiBthx304_AgAimA/index-s32.m3u8
-#EXTINF:0 tvg-id="TV2 SYD HD" tvg-logo="https://imgur.com/Unmr8yg.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",TV2 SYD HD
+#EXTINF:0 tvg-id="TV2 SYD HD" tvg-logo="https://imgur.com/Unmr8yg.png" group-title="TV2" group-logo="https://imgur.com/SoEC8Np.png",TV2 SYD HD
 http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/sd/10000/t/327RYXxPUq2u4xgiUD75gw/index-s32.m3u8
-#EXTINF:0 tvg-id="KANAL9 HD" tvg-logo="https://imgur.com/ONbp4Bw.png" group-title="DANSK" group-logo="https://imgur.com/SoEC8Np.png",KANAL 9
+#EXTINF:0 tvg-id="KANAL9 HD" tvg-logo="https://imgur.com/ONbp4Bw.png" group-title="9EREN" group-logo="https://imgur.com/SoEC8Np.png",KANAL 9
 http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
 
 
